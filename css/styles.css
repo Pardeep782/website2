@@ -1,0 +1,74 @@
+body{
+  background-color: #f0efef;
+  margin: 0 10% 0 10%;
+
+}
+          /* TOP CONTAINER */
+
+.topContainer{
+    background-color:  powderblue;
+    padding-bottom: 1%;
+}
+.firstLine{
+  margin-top: 2%;
+}
+.nav-link:hover{
+  background-color: powderblue;
+  border-radius: 10%;
+}
+.navbar-nav{
+  margin-left: 5%;
+}
+
+.banda{
+  display: inline-block;
+  margin-left: 17%;
+  margin-top: 2%;
+}
+.Cycle{
+  margin-left: 67%;
+}
+
+.firstHeading{
+  font-size: 200%;
+  font-family: 'Amita';
+  margin-bottom: 0;
+
+}
+          /* MIDDLE CONTAINER */
+
+.middleContainer{
+    background-color: #FFC0CB;
+    padding-top: 4%;
+    padding-left: 3%;
+    padding-right: 3%;
+
+     padding-bottom: 2%;
+}
+
+.middleContainer h2{
+     font-family: 'Audiowide';
+}
+.middleContainer p{
+  font-family: 'Amita';
+}
+
+.skills{
+  padding-top: 1.5%;
+}
+
+          /* BOTTOM CONTAINER */
+.bottomContainer{
+  padding-top: 4%;
+  padding-left: 3%;
+  padding-right: 3%;
+  background-color: #f3d3b6;
+
+}
+.Form{
+  width: 50%;
+ display:inline-block;
+}
+.plane{
+  width: 100%;
+}
